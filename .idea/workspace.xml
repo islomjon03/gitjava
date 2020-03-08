@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4584d53-0de8-4a9d-aeba-cc665c658887" name="Default Changelist" comment="" />
+    <list default="true" id="b4584d53-0de8-4a9d-aeba-cc665c658887" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/iii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ddf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1X5GQWbIVJqXWhzZJFvK9PRuVEs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,7 +47,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.workers">
+  <component name="RunManager" selected="Application.player">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="Lesson.number1" />
@@ -52,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pc" />
+    <configuration name="player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="player" />
       <module name="Lesson.number1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.player" />
         <item itemvalue="Application.workers" />
         <item itemvalue="Application.matritsa" />
         <item itemvalue="Application.sss" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.pc" />
       </list>
     </recent_temporary>
   </component>
@@ -109,37 +119,45 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="401" y="20" key="#lesson4/0.0.1366.728@0.0.1366.728" timestamp="1580659486675" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1582914616811">
+    <state x="315" y="0" key="CommitChangelistDialog2" timestamp="1583263876618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582914616811" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1582914616811">
+    <state x="315" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583263876618" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1583509132880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582914616811" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1582914616811">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583509132880" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1583509132880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582914616811" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1582914616811">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583509132880" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1583509132880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582914616811" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583509132880" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1583509132880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583509132880" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1582217640472">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1582217640472" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583254334138">
+    <state x="311" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1583691413912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583254334138" />
+    <state x="311" y="213" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583691413912" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583428965364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1583428965364" />
     <state x="414" y="105" key="extract.method.dialog" timestamp="1581630266291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="105" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1581630266291" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583251326487">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583254893260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583251326487" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583254893260" />
   </component>
 </project>
