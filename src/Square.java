@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public class Square extends Shape {
+    public void draw(){
+        System.out.println("Квадрат");
+    }
 
-public class Square {
 }

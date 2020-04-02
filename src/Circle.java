@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class Circle {
+public class Circle extends Shape{
+    public void draw(){
+        System.out.println("Круг");
+    }
 }

@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public  abstract class Class  {
+abstract public void draw();
 
-public class Class {
 }
